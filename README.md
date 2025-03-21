@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate computing gradute with a strong interest 
 - 🌱 I’m currently learning to code in Java using Coddy. https://coddy.tech/journeys/java/fundamentals 
 - 📫 How to reach me: tommor99@gmail.com, https://www.linkedin.com/in/thomas-robertson-400489187/   
 - ⚡ Fun fact: I'm a huge Star Wars fan! 🚀✨ May the Force be with you!  
-  ![Star Wars](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+  ![Star Wars](https://media.giphy.com/media/5kFzCvy8wRO6a/giphy.gif).  
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommo1999&show_icons=true&theme=radical)  

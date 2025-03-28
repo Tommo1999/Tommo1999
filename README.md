@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Thomas 
 
-Welcome to my GitHub! I'm a passionate computing gradute with a strong interest in coding. I love solving problems with code and learning new technologies.  
+Welcome to my GitHub! I'm a passionate computing graduate with a strong interest in coding. I love solving problems with code and learning new technologies.  
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on creating a website called www.supplierdb.info.  

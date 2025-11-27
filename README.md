@@ -33,4 +33,4 @@ Welcome to my GitHub! I'm a passionate computing graduate with a strong interest
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![ISC2](https://img.shields.io/badge/ISC2-Cybersecurity-006400?style=for-the-badge&logo=isc2&logoColor=white)
+![ISC2 Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=isc2&logoColor=white)
